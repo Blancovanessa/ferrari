@@ -1,0 +1,32 @@
+@import 'variables.css';
+@import 'reset.css';
+@import 'open-sans.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'our-history.css';
+@import 'gallery.css';
+@import 'contact.css';
+@import 'register.css';
+@import 'login.css';
+@import 'home.css';
+
+/* mobile first */
+/* breakpoint */
+/* tablet ou celular landscape */
+@media (min-width: 576px) {
+
+}
+/* desktop */
+@media (min-width: 768px) {
+    
+}
+/* large desktop */
+@media (min-width: 992px) {
+
+}    
+/* extra large desktop */
+@media (min-width: 1200px) {
+    
+}
+
+
